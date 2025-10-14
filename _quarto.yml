@@ -32,8 +32,8 @@ website:
     center: 
       - text: "{{< iconify fa6-brands google-scholar size=large >}}"
         href: https://scholar.google.com/citations?user=8Aofwe4AAAAJ&hl=en&oi=ao
-      - icon: twitter
-        href: https://twitter.com/yaassakka
+      - text: "{{< iconify fa6-brands bluesky>}}"
+        href: https://bsky.app/profile/yaassakka.bsky.social
       - icon: linkedin
         href: https://www.linkedin.com/in/sharaj-kunjar-125ba6201/
       - icon: envelope

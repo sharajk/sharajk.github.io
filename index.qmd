@@ -6,8 +6,8 @@ about:
   links:
     - text: Google Scholar
       href: https://scholar.google.com/citations?user=8Aofwe4AAAAJ&hl=en&oi=ao
-    - text: Twitter
-      href: https://twitter.com/yaassakka
+    - text: Bluesky
+      href: https://bsky.app/profile/yaassakka.bsky.social
     - text: LinkedIn
       href: https://www.linkedin.com/in/sharaj-kunjar-125ba6201/
     - text: Email
