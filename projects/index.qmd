@@ -76,7 +76,7 @@ In 2022, the United States was struck with an epidemic of Mpox, a disease that w
 
 <h3 style = "text-align: left;"> A Network analysis of Intermedia Frame-building in the News discourse about the Mpox epidemic </h3>
 
-<a href="../files/Intermedia_frame-building.pdf">Extended Abstract</a> | <a href="../files/NetSciX-25_Kunjar.pptx">NetSciX 2025 talk</a> 
+<a href="../files/Intermedia_frame-building.pdf">Extended Abstract</a> | <a href="../files/NetSciX-25_Kunjar.pptx">NetSciX 2025 talk</a> | <a href="../files/ICA25-talk.pptx">ICA 2025 talk</a> 
 
 <b> Collaborators: </b> <a href = "https://scarpino.github.io">Samuel Scarpino</a>, <a href = "http://brooke-welles.squarespace.com">Brooke Foucault Welles</a>.
 
