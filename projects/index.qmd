@@ -60,7 +60,7 @@ Our findings show that these powerful AI models do not universally outperform ol
 
 <summary>Click to know more</summary>
 
-<i> Historically, mass media's coverage of queer people's health has been heavily politicized and riddled with homophobic rhetoric. Literature on how the AIDS epidemic was covered reveals various stigmatizing narratives that blame individuals for disease spread. Now that we're 4 decades in, do we see any difference in how queer health is talked about? </i>
+<i> Historically, mass media's coverage of queer people's health has been heavily politicized and riddled with homophobic rhetoric. Literature on how the AIDS epidemic was covered reveals various stigmatizing narratives that blame queer individuals for disease spread. Now that we're four decades in, do we see any difference in how queer health is talked about? </i>
 
 <p style="text-align: center;">
 <img src="../img/mpox_intersections.png" style="display: inline-block; width: 48%; height: auto; object-fit: contain; margin-right: 15px;">
